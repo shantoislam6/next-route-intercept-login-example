@@ -1,8 +1,7 @@
 'use client';
-import LoginForm from '@/components/LoginForm';
-// import { LoginForm } from '@/components/LoginForm';
-import { useEffect, useRef } from 'react';
 
+import LoginForm from '@/components/LoginForm';
+import { useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 
 export default function LoginModal() {
