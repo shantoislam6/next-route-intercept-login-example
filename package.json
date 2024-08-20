@@ -1,12 +1,16 @@
 {
-  "name": "n",
+  "name": "next-route-intercep-login-example",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "repository": {
+    "url": "https://github.com/shantoislam6/next-route-intercept-login-example",
+    "type": "github"
   },
   "dependencies": {
     "react": "^18",
